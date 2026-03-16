@@ -40,7 +40,9 @@ Docker Desktop includes:
 - Docker Compose
 - GUI dashboard for containers, images, and volumes
 
-![Docker Desktop Home](../Assets/docker desktop.png)
+Screenshot: Docker Desktop dashboard
+
+![Docker Desktop Home](../Assets/docker%20desktop.png)
 
 ## 5. Recommended First Settings
 
