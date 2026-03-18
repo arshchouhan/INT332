@@ -35,13 +35,17 @@ This repository documents my end-to-end learning path with Docker — from envir
 
 ## 📁 Structure
 
-```
-📦 docker-learning
- ┣ 📂 01-installation        # Docker Desktop setup on Windows + WSL 2
- ┣ 📂 02-core-concepts       # Images, containers, volumes, networks
- ┣ 📂 03-docker-compose      # Multi-container app examples
- ┗ 📂 04-dockerfiles         # Writing and optimising Dockerfiles
-```
+| Step | Folder | Focus |
+|---|---|---|
+| 00 | `00-installation` | Docker Desktop setup on Windows + WSL 2 |
+| 01 | `01-deployment-evolution` | From bare metal to containers |
+| 02 | `02-first-container` | Run your first Docker container |
+| 03 | `03-docker-images` | Pulling and managing Docker images |
+| 04 | `04-docker-containers` | Container lifecycle and runtime commands |
+| 05 | `05-dockerfile` | Writing a simple Dockerfile |
+| 06 | `06-volumes` | Persisting data with volumes |
+| 07 | `07-networking` | Container networking basics |
+| 08 | `08-docker-compose` | Multi-container apps with Compose |
 
 ---
 
