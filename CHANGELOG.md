@@ -2,6 +2,12 @@
 
 All notable updates to this Docker learning repository are recorded here.
 
+## 2026-03-20
+
+- Expanded `dockerfiles/simple-dockerfile/README.md` with a complete Dockerfile study guide.
+- Added `commands/dockerfile-commands.md` for Dockerfile and image build command reference.
+- Added `notes/07-dockerfiles/dockerfile-basics.md` with Dockerfile concepts, workflow, and best practices.
+
 ## 2026-03-19
 
 - Added `projects/node-mongo-users-api` as a basic Node.js app that connects to MongoDB.

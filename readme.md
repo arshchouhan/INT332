@@ -44,13 +44,15 @@ This repository documents my end-to-end learning path with Docker — from envir
  ┃ ┣ 📂 03-docker-images
  ┃ ┣ 📂 04-docker-containers
  ┃ ┣ 📂 05-volumes
- ┃ ┗ 📂 06-networking
+ ┃ ┣ 📂 06-networking
+ ┃ ┗ 📂 07-dockerfiles
  ┣ 📂 dockerfiles/        # Dockerfile examples with explanations
  ┃ ┗ 📂 simple-dockerfile
  ┣ 📂 compose-projects/   # Docker Compose stacks
  ┃ ┗ 📂 compose-demo
  ┣ 📂 commands/           # Docker CLI cheatsheets
- ┃ ┗ 📜 docker-cli-basics.md
+ ┃ ┣ 📜 docker-cli-basics.md
+ ┃ ┗ 📜 dockerfile-commands.md
  ┣ 📂 troubleshooting/    # Errors and fixes
  ┣ 📂 projects/           # Real working containerized apps
  ┃ ┗ 📂 compose-demo-app
