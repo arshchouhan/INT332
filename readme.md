@@ -45,7 +45,8 @@ This repository documents my end-to-end learning path with Docker — from envir
  ┃ ┣ 📂 04-docker-containers
  ┃ ┣ 📂 05-volumes
  ┃ ┣ 📂 06-networking
- ┃ ┗ 📂 07-dockerfiles
+ ┃ ┣ 📂 07-dockerfiles
+ ┃ ┗ 📂 08-docker-context
  ┣ 📂 dockerfiles/        # Dockerfile examples with explanations
  ┃ ┗ 📂 simple-dockerfile
  ┣ 📂 compose-projects/   # Docker Compose stacks

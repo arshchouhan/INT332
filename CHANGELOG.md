@@ -2,6 +2,10 @@
 
 All notable updates to this Docker learning repository are recorded here.
 
+## 2026-03-24
+
+- Added `notes/08-docker-context/docker-context-basics.md` covering Docker context concepts and core commands.
+
 ## 2026-03-20
 
 - Expanded `dockerfiles/simple-dockerfile/README.md` with a complete Dockerfile study guide.
